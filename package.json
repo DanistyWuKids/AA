@@ -2,7 +2,7 @@
   "name": "aia",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://danistywukids.github.io/AA",
+  "homepage": "https://danistywukids.github.io/Algorithm-in-action",
   "dependencies": {
     "@material-ui/core": "^4.9.13",
     "@material-ui/icons": "^4.11.2",
